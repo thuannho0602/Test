@@ -10,7 +10,7 @@
         public DateTime DOB { get; set; }
         public string Address { get; set; }
     }
-    public class AuthorCountBookDTO 
+    public class AuthorCountBookDTO   
     {
         public int Id { get; set; }
         public string Firstname { get; set; }
