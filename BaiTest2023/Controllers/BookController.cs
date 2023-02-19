@@ -1,8 +1,4 @@
-﻿//using BaiTest2023.Modols;
-//using Microsoft.AspNetCore.Components;
-//using Microsoft.AspNetCore.Mvc;
-//using Microsoft.EntityFrameworkCore;
-using BaiTest2023.DTO;
+﻿using BaiTest2023.DTO;
 using BaiTest2023.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
