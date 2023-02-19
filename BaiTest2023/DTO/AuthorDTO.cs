@@ -16,6 +16,5 @@
         public string Firstname { get; set; }
         public string Lastname { get; set; }
         public int TotalBook { get; set; }
-        public string dataaa { get; set; }
     }
 }
